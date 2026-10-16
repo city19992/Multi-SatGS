@@ -19,7 +19,7 @@ rendering, and date-conditioned appearance queries without target-image fitting.
 
 ## News
 
-- **2026-10-16:** Our Multi-SatGS study and manuscript are complete.
+- **2026-10-16:** The Multi-SatGS pre-release page is now public.
 
 ## Code availability
 
